@@ -1,0 +1,33 @@
+{
+  "TargetId": 43,
+  "ProductType": "User Product",
+  "AssetId": 43,
+  "ProductId": 43,
+  "Name": "Your Place Name Here",
+  "Description": " ",
+  "AssetTypeId": 9,
+  "Creator": {
+    "Id": "67",
+    "Name": "RZMnx",
+    "CreatorType": "User",
+    "CreatorTargetId": "67",
+    "HasVerifiedBadge": true
+  },
+  "IdbImageAssetId": 43,
+  "Created": 1719657047,
+  "Updated": 1719657104,
+  "PriceInRobux": 0,
+  "PriceInTickets": 0,
+  "Sales": 0,
+  "IsNew": false,
+  "IsForSale": false,
+  "IsPublicDomain": false,
+  "IsLimited": false,
+  "IsLimitedUnique": false,
+  "Remaining": null,
+  "MinimumMembershipLevel": 0,
+  "dbtentRatingTypeId": 0,
+  "SaleAvailabilityLocations": null,
+  "SaleLocation": null,
+  "CollectibleItemId": null
+}
