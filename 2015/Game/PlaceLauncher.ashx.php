@@ -1,14 +1,8 @@
-<?php
-$Waiting = "0";
-$Serverfound = "1";
-$joining = "2";
-?>
 {
     "jobId":"join",
-    "status": 2,
+    "status":2,
     "joinScriptUrl":"http://yourdomain.shouldbe10chars/Game/joinm",
-    "authenticationUrl":"http://yourdomain.shouldbe10chars/Login/Negotiate.ashx",
-    "authenticationTicket":null,
+    "authenticationUrl":"yourdomain.shouldbe10chars",
+    "authenticationTicket":"1",
     "message":null
-    
 }
