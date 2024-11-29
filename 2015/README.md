@@ -1,2 +1,2 @@
 ## Warning: Theres Too Many Bugs.
-Replace yourdomain.shouldbe10chars with your domain
+Replace yourdomain.shouldbe10chars with your domain, Aslo replace PK.pem with your privatekey in joinscript
